@@ -13,10 +13,10 @@ We encourage the use of this data for radiomics and machine learning investigati
 
 The files are in compressed NIFTI (.nii.gz) format and collected in separate folders for T2 and ADC images. Each filename contains the following information:
 
-"PROSTATEx Patient ID" +_+ "Finding ID" +_+ "Sequence name"_ADC/T2_ROI
+"PROSTATEx Patient ID" "_" "Finding ID" "_" "Sequence name"_ADC/T2_ROI
 
 As sometimes multiple axial ADC/T2 image sequences are available for a patient, the repository also includes a list in CSV format containing the correct images for each mask. The list is structured as follows:
 
-"PROSTATEx Patient ID"_"Sequence name"_"Sequence number"
+"PROSTATEx Patient ID" "_" "Sequence name" "_" "Sequence number"
 
 The sequence number corresponds to the number at the beginning of the PROSTATEx dataset DICOM image folders for each patient.
