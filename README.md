@@ -7,7 +7,7 @@ The PROSTATEx dataset comprises prostate MRI exams with PI-RADS score = 2+ lesio
 
 The original dataset only provided lesion coordinates and an accompanying screenshot for each finding, with several issues due to misplaced coordinates or not clearly identifiable PI-RADS score = 2 lesions. This repository contains the result of a lesion-by-lesion quality check conducted at the Department of Advanced Biomedical Sciences of the University of Naples "Federico II", in the form of lesion masks on axial T2-weighted and ADC images for all correctly identifiable findings in the PROSTATEx/PROSTATEx2 training dataset. As the ground truth was not available for the test sets, the same quality check was not performed on that data.
 
-We encourage the use of this data for radiomics and machine learning investigations in magnetic resonance imaging for prostate cancer, appropriately referencing the repository. 
+We encourage the use of this data for radiomics and machine learning investigations in magnetic resonance imaging for prostate cancer, appropriately referencing the repository. Quality checks on the provided masks or other improvements are also welcome as pull requests to the repository.
 
 ## Files
 
