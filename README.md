@@ -20,3 +20,7 @@ As sometimes multiple axial ADC/T2 image sequences are available for a patient, 
 - "PROSTATEx Patient ID" + "Sequence name" + "Sequence number"
 
 The sequence number corresponds to the number at the beginning of the PROSTATEx dataset DICOM image folders for each patient.
+
+## License
+
+Creative Commons Attribution 4.0 International (CC-BY-4.0). See "LICENSE" file for full details.
