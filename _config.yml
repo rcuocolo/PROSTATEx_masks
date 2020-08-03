@@ -1,1 +1,4 @@
+title: PROSTATEx Masks
+description: 3D Lesion masks for the PROSTATEx dataset, after a lesion-by-lesion quality check
+show_downloads: true
 theme: jekyll-theme-slate
