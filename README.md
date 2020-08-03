@@ -1,6 +1,4 @@
-# PROSTATEx masks
-
-## Introduction
+## Description
 
 Lesion masks for the [PROSTATEx dataset](https://wiki.cancerimagingarchive.net/display/Public/SPIE-AAPM-NCI+PROSTATEx+Challenges).
 The dataset comprises prostate MRI exams with PI-RADS score = 2+ lesions. These are classified as clinically significant or not. Only PI-RADS score = 3+ underwent biopsy and are collected in the PROSTATEx 2 dataset, together with the resulting bioptic lesion Gleason Grade.
