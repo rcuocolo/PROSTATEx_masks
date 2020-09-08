@@ -11,7 +11,7 @@ We encourage the use of this data for radiomics and machine learning investigati
 
 ### Lesion masks
 
-The files are in compressed NIFTI (.nii.gz) format and collected in separate folders for T2 and ADC images. Each filename contains the following information (separated by underscores):
+The files are in compressed NIFTI (.nii.gz) format and collected in separate folders for T2 and ADC images (n = 299 lesions). Each filename contains the following information (separated by underscores):
 
 - "PROSTATEx Patient ID" + "Finding ID" + "Sequence name" + "ROI"
 
@@ -23,9 +23,9 @@ The sequence number corresponds to the number at the beginning of the PROSTATEx 
 
 Full exam DICOM files are retrievable through the Cancer Imaging Archive at: [https://wiki.cancerimagingarchive.net/display/Public/SPIE-AAPM-NCI+PROSTATEx+Challenges](https://wiki.cancerimagingarchive.net/display/Public/SPIE-AAPM-NCI+PROSTATEx+Challenges)
 
-### Prostate and zonal masks
+### Prostate and zonal anatomy masks
 
-The files are in compressed NIFTI (.nii.gz) format. Each filename contains the following information (separated by underscores):
+The files are in compressed NIFTI (.nii.gz) format, and all segmentations have been performed on axial T2 images (n = 204 exams). Each filename contains the following information (separated by underscores):
 
 - "PROSTATEx Patient ID"
 
