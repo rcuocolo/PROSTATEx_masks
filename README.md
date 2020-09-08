@@ -9,11 +9,29 @@ We encourage the use of this data for radiomics and machine learning investigati
 
 ## Files
 
+### Lesion masks
+
 The files are in compressed NIFTI (.nii.gz) format and collected in separate folders for T2 and ADC images. Each filename contains the following information (separated by underscores):
 
 - "PROSTATEx Patient ID" + "Finding ID" + "Sequence name" + "ROI"
 
 As sometimes multiple axial ADC/T2 image sequences are available for a patient, the repository also includes a list in CSV format containing the correct images for each mask. The list is structured as follows (separated by underscores):
+
+- "PROSTATEx Patient ID" + "Sequence name" + "Sequence number"
+
+The sequence number corresponds to the number at the beginning of the PROSTATEx dataset DICOM image folders for each patient.
+
+Full exam DICOM files are retrievable through the Cancer Imaging Archive at: [https://wiki.cancerimagingarchive.net/display/Public/SPIE-AAPM-NCI+PROSTATEx+Challenges](https://wiki.cancerimagingarchive.net/display/Public/SPIE-AAPM-NCI+PROSTATEx+Challenges)
+
+### Prostate and zonal masks
+
+The files are in compressed NIFTI (.nii.gz) format. Each filename contains the following information (separated by underscores):
+
+- "PROSTATEx Patient ID"
+
+The masks included in the "mask_prostate" directory represent whole-gland masks (binarized). Those included in "mask_pz" and "mask_tz" are limited respectively to the peripheral and rest (transition zone, central zone, anterior stroma) of the gland, also binarized. The last directory "mas_pz_tz" contains both annotations, with peripheral zone voxels having a value of 2 and the remaining (transition zone, central zone, anterior stroma) a value of 1. The backgorund always has a value of 0.
+ 
+As sometimes multiple axial T2 image sequences are available for a patient, the repository also includes a list in CSV format containing the correct images for each mask. The list is structured as follows (separated by underscores):
 
 - "PROSTATEx Patient ID" + "Sequence name" + "Sequence number"
 
