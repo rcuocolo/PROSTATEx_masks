@@ -36,8 +36,8 @@ The files are in compressed NIFTI (.nii.gz) format, and all segmentations have b
 
 - "PROSTATEx Patient ID"
 
-The masks included in the "mask_prostate" directory represent whole-gland masks (binarized). Those included in "mask_pz" and "mask_tz" are limited respectively to the peripheral and rest (transition zone, central zone, anterior stroma) of the gland, also binarized. The last directory "mas_pz_tz" contains both annotations, with peripheral zone voxels having a value of 2 and the remaining (transition zone, central zone, anterior stroma) a value of 1. The backgorund always has a value of 0.
- 
+The masks included in the "mask_prostate" directory represent whole-gland masks (binarized). Those included in "mask_pz" and "mask_tz" are limited respectively to the peripheral and rest (transition zone, central zone, anterior stroma) of the gland, also binarized. The backgorund always has a value of 0. All segmentations were performed manually and the masks underwent an automated cluster cleaning to remove eventual imperfections.
+
 As sometimes multiple axial T2 image sequences are available for a patient, the repository also includes a list in CSV format containing the correct images for each mask. The list is structured as follows (separated by underscores):
 
 - "PROSTATEx Patient ID" + "Sequence name" + "Sequence number"
