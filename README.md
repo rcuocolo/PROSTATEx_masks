@@ -11,7 +11,7 @@ We encourage the use of this data for radiomics and machine learning investigati
 
 ### Lesion masks
 
-The files are in compressed NIFTI (.nii.gz) format and collected in separate folders for T2 and ADC images (n = 299 lesions). Each filename contains the following information (separated by underscores):
+The files are in compressed NIFTI (.nii.gz) format and collected in separate folders for T2 and ADC images (n = 299 lesions) within the "lesions/Masks" directory. Each filename contains the following information (separated by underscores):
 
 - "PROSTATEx Patient ID" + "Finding ID" + "Sequence name" + "ROI"
 
@@ -29,6 +29,10 @@ Finally, the "PROSTATEx_classes.csv" file contains the ground truths for all les
 Patients who were classified as PI-RADS score = 2 did not undergo biopsy and their lesions are always assumed to be not clinically significant.
 
 Full exam DICOM files are retrievable through the Cancer Imaging Archive at: [https://wiki.cancerimagingarchive.net/display/Public/SPIE-AAPM-NCI+PROSTATEx+Challenges](https://wiki.cancerimagingarchive.net/display/Public/SPIE-AAPM-NCI+PROSTATEx+Challenges)
+
+### Original coordinate markers
+
+These 3x3 masks are centered on the original lesion coordinates provided in the PROSTATEx dataset and were employed for the quality control assessment and as the basis for successive whole-lesion segmentation. For the sake of transparency, they are also included in the dataset in the same format as the lesion masks in the "Original_coordinate_markers" folder. This file set includes lesion markers for all axial T2 and ADC images included for each patient.
 
 ### Prostate and zonal anatomy masks
 
