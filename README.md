@@ -54,10 +54,10 @@ Full exam DICOM files are retrievable through the Cancer Imaging Archive at: [ht
 
 The article is still in production, but has been assigned a DOI. Details are:
 
-Journal: Journal of Magnetic Resonance Imaging
-Article DOI: 10.1002/jmri.27585
-Article: Deep learning whole-gland and zonal prostate segmentation on a public MRI dataset
-Authors: Renato Cuocolo, Albert Comelli, Alessandro Stefano, Viviana Benfante, Navdeep Dahiya, Arnaldo Stanzione, Anna Castaldo, Davide Raffaele De Lucia, Anthony Yezzi, Massimo Imbriaco
+- Journal: Journal of Magnetic Resonance Imaging
+- Article DOI: 10.1002/jmri.27585
+- Article: Deep learning whole-gland and zonal prostate segmentation on a public MRI dataset
+- Authors: Renato Cuocolo, Albert Comelli, Alessandro Stefano, Viviana Benfante, Navdeep Dahiya, Arnaldo Stanzione, Anna Castaldo, Davide Raffaele De Lucia, Anthony Yezzi, Massimo Imbriaco
 
 Formatted for typical journal use: Cuocolo R, Comelli A, Stefano A, et al (2021) Deep learning whole-gland and zonal prostate segmentation on a public MRI dataset. J Magn Reson Imaging. https://doi.org/10.1002/jmri.27585
 
