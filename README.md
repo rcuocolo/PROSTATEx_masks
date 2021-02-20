@@ -52,7 +52,7 @@ Full exam DICOM files are retrievable through the Cancer Imaging Archive at: [ht
 
 ## Citation
 
-The article is still in production, but has been assigned a DOI. Details are:
+The article related to whole gland and zonal segmentations is still in production, but has been assigned a DOI. Details are:
 
 - Journal: Journal of Magnetic Resonance Imaging
 - Article DOI: 10.1002/jmri.27585
@@ -60,6 +60,8 @@ The article is still in production, but has been assigned a DOI. Details are:
 - Authors: Renato Cuocolo, Albert Comelli, Alessandro Stefano, Viviana Benfante, Navdeep Dahiya, Arnaldo Stanzione, Anna Castaldo, Davide Raffaele De Lucia, Anthony Yezzi, Massimo Imbriaco
 
 Formatted for typical journal use: Cuocolo R, Comelli A, Stefano A, et al (2021) Deep learning whole-gland and zonal prostate segmentation on a public MRI dataset. J Magn Reson Imaging. https://doi.org/10.1002/jmri.27585
+
+A second paper focused on the QA process and lesion segemntation is still under review. Details will be made available when possible.
 
 ## License
 
