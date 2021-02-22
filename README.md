@@ -61,7 +61,7 @@ The article related to whole gland and zonal segmentations is still in productio
 
 Formatted for typical journal use: Cuocolo R, Comelli A, Stefano A, et al (2021) Deep learning whole-gland and zonal prostate segmentation on a public MRI dataset. J Magn Reson Imaging. https://doi.org/10.1002/jmri.27585
 
-A second paper focused on the QA process and lesion segemntation is still under review. Details will be made available when possible.
+A second paper focused on the QA process and lesion segmentation is still under review. Details will be made available when possible.
 
 ## License
 
