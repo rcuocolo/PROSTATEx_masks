@@ -1,300 +1,300 @@
-ID,Clinically Significant,Gleason Grade Group
-ProstateX-0000_Finding1,True,3
-ProstateX-0001_Finding1,False,1
-ProstateX-0002_Finding1,True,2
-ProstateX-0002_Finding2,False,1
-ProstateX-0003_Finding1,False,No Biopsy
-ProstateX-0003_Finding2,False,No Biopsy
-ProstateX-0004_Finding1,False,1
-ProstateX-0005_Finding0,True,2
-ProstateX-0005_Finding1,True,3
-ProstateX-0006_Finding1,False,No Biopsy
-ProstateX-0007_Finding1,False,No Biopsy
-ProstateX-0008_Finding1,False,No Biopsy
-ProstateX-0009_Finding1,False,No Biopsy
-ProstateX-0010_Finding1,False,No Biopsy
-ProstateX-0011_Finding1,False,No Biopsy
-ProstateX-0012_Finding1,False,No Biopsy
-ProstateX-0012_Finding2,False,No Biopsy
-ProstateX-0013_Finding1,False,No Biopsy
-ProstateX-0014_Finding1,True,2
-ProstateX-0015_Finding1,True,3
-ProstateX-0016_Finding1,False,1
-ProstateX-0017_Finding1,False,No Biopsy
-ProstateX-0018_Finding1,True,2
-ProstateX-0019_Finding1,True,2
-ProstateX-0020_Finding1,False,No Biopsy
-ProstateX-0021_Finding2,False,No Biopsy
-ProstateX-0021_Finding4,False,No Biopsy
-ProstateX-0022_Finding1,False,No Biopsy
-ProstateX-0023_Finding1,False,No Biopsy
-ProstateX-0023_Finding2,False,No Biopsy
-ProstateX-0024_Finding1,False,No Biopsy
-ProstateX-0025_Finding1,False,No Biopsy
-ProstateX-0026_Finding1,True,4
-ProstateX-0027_Finding1,False,No Biopsy
-ProstateX-0028_Finding1,True,2
-ProstateX-0028_Finding2,False,No Biopsy
-ProstateX-0029_Finding1,False,No Biopsy
-ProstateX-0030_Finding1,False,No Biopsy
-ProstateX-0031_Finding1,True,2
-ProstateX-0031_Finding2,False,1
-ProstateX-0032_Finding1,False,No Biopsy
-ProstateX-0033_Finding1,False,No Biopsy
-ProstateX-0033_Finding3,False,No Biopsy
-ProstateX-0034_Finding1,False,No Biopsy
-ProstateX-0035_Finding1,True,2
-ProstateX-0035_Finding2,False,No Biopsy
-ProstateX-0036_Finding1,False,No Biopsy
-ProstateX-0037_Finding1,True,2
-ProstateX-0037_Finding2,False,No Biopsy
-ProstateX-0038_Finding1,False,No Biopsy
-ProstateX-0038_Finding2,False,No Biopsy
-ProstateX-0038_Finding3,False,No Biopsy
-ProstateX-0039_Finding1,False,No Biopsy
-ProstateX-0040_Finding1,True,2
-ProstateX-0040_Finding2,False,No Biopsy
-ProstateX-0040_Finding3,False,No Biopsy
-ProstateX-0041_Finding1,True,2
-ProstateX-0042_Finding1,False,No Biopsy
-ProstateX-0043_Finding1,False,No Biopsy
-ProstateX-0044_Finding1,False,No Biopsy
-ProstateX-0045_Finding1,False,No Biopsy
-ProstateX-0046_Finding1,True,3
-ProstateX-0046_Finding2,False,No Biopsy
-ProstateX-0047_Finding1,False,No Biopsy
-ProstateX-0048_Finding1,False,No Biopsy
-ProstateX-0049_Finding1,False,No Biopsy
-ProstateX-0050_Finding1,False,No Biopsy
-ProstateX-0051_Finding1,False,No Biopsy
-ProstateX-0053_Finding4,False,1
-ProstateX-0054_Finding1,True,2
-ProstateX-0054_Finding2,False,No Biopsy
-ProstateX-0055_Finding1,True,3
-ProstateX-0057_Finding1,False,No Biopsy
-ProstateX-0057_Finding2,False,No Biopsy
-ProstateX-0058_Finding1,False,No Biopsy
-ProstateX-0059_Finding1,False,No Biopsy
-ProstateX-0060_Finding1,False,No Biopsy
-ProstateX-0061_Finding1,False,No Biopsy
-ProstateX-0062_Finding1,False,No Biopsy
-ProstateX-0063_Finding1,False,No Biopsy
-ProstateX-0064_Finding1,False,No Biopsy
-ProstateX-0065_Finding1,False,No Biopsy
-ProstateX-0065_Finding2,False,No Biopsy
-ProstateX-0066_Finding1,False,No Biopsy
-ProstateX-0067_Finding1,True,2
-ProstateX-0067_Finding2,False,No Biopsy
-ProstateX-0067_Finding3,False,No Biopsy
-ProstateX-0068_Finding1,False,No Biopsy
-ProstateX-0068_Finding2,False,No Biopsy
-ProstateX-0068_Finding3,False,No Biopsy
-ProstateX-0069_Finding1,False,1
-ProstateX-0070_Finding1,False,No Biopsy
-ProstateX-0070_Finding2,False,No Biopsy
-ProstateX-0071_Finding1,True,3
-ProstateX-0072_Finding1,False,No Biopsy
-ProstateX-0073_Finding1,False,No Biopsy
-ProstateX-0074_Finding1,False,No Biopsy
-ProstateX-0075_Finding1,False,No Biopsy
-ProstateX-0076_Finding1,False,1
-ProstateX-0077_Finding1,True,4
-ProstateX-0078_Finding1,True,3
-ProstateX-0079_Finding1,False,No Biopsy
-ProstateX-0081_Finding1,False,No Biopsy
-ProstateX-0082_Finding1,True,2
-ProstateX-0083_Finding1,False,No Biopsy
-ProstateX-0083_Finding2,False,No Biopsy
-ProstateX-0084_Finding1,False,No Biopsy
-ProstateX-0084_Finding2,False,1
-ProstateX-0085_Finding1,False,No Biopsy
-ProstateX-0085_Finding2,False,No Biopsy
-ProstateX-0085_Finding3,False,No Biopsy
-ProstateX-0085_Finding4,False,No Biopsy
-ProstateX-0086_Finding1,False,No Biopsy
-ProstateX-0086_Finding2,False,No Biopsy
-ProstateX-0087_Finding1,False,No Biopsy
-ProstateX-0087_Finding2,False,No Biopsy
-ProstateX-0088_Finding1,False,No Biopsy
-ProstateX-0088_Finding2,False,No Biopsy
-ProstateX-0089_Finding1,False,No Biopsy
-ProstateX-0090_Finding1,False,No Biopsy
-ProstateX-0091_Finding1,False,No Biopsy
-ProstateX-0092_Finding1,True,3
-ProstateX-0093_Finding3,False,No Biopsy
-ProstateX-0094_Finding1,True,3
-ProstateX-0095_Finding1,True,3
-ProstateX-0095_Finding2,False,No Biopsy
-ProstateX-0096_Finding1,False,No Biopsy
-ProstateX-0097_Finding1,True,2
-ProstateX-0098_Finding1,False,No Biopsy
-ProstateX-0099_Finding1,True,2
-ProstateX-0099_Finding2,False,No Biopsy
-ProstateX-0100_Finding1,False,No Biopsy
-ProstateX-0100_Finding3,False,No Biopsy
-ProstateX-0101_Finding1,False,1
-ProstateX-0101_Finding2,False,No Biopsy
-ProstateX-0102_Finding1,True,2
-ProstateX-0103_Finding1,True,5
-ProstateX-0103_Finding2,False,No Biopsy
-ProstateX-0104_Finding1,True,2
-ProstateX-0104_Finding2,False,No Biopsy
-ProstateX-0105_Finding1,True,2
-ProstateX-0106_Finding1,False,No Biopsy
-ProstateX-0106_Finding2,True,3
-ProstateX-0107_Finding1,False,No Biopsy
-ProstateX-0108_Finding1,False,No Biopsy
-ProstateX-0108_Finding2,False,No Biopsy
-ProstateX-0109_Finding1,False,No Biopsy
-ProstateX-0109_Finding2,False,No Biopsy
-ProstateX-0110_Finding1,False,1
-ProstateX-0110_Finding2,False,No Biopsy
-ProstateX-0111_Finding1,True,2
-ProstateX-0112_Finding1,False,No Biopsy
-ProstateX-0113_Finding1,False,No Biopsy
-ProstateX-0114_Finding1,True,3
-ProstateX-0114_Finding2,False,No Biopsy
-ProstateX-0115_Finding1,True,2
-ProstateX-0116_Finding1,False,1
-ProstateX-0117_Finding1,True,2
-ProstateX-0117_Finding3,False,No Biopsy
-ProstateX-0118_Finding1,True,2
-ProstateX-0118_Finding2,False,No Biopsy
-ProstateX-0119_Finding1,True,2
-ProstateX-0120_Finding1,False,No Biopsy
-ProstateX-0120_Finding2,False,No Biopsy
-ProstateX-0121_Finding1,False,1
-ProstateX-0121_Finding2,True,2
-ProstateX-0122_Finding1,False,1
-ProstateX-0122_Finding2,False,1
-ProstateX-0123_Finding1,True,3
-ProstateX-0124_Finding1,False,1
-ProstateX-0125_Finding1,True,2
-ProstateX-0126_Finding1,False,No Biopsy
-ProstateX-0126_Finding2,True,4
-ProstateX-0127_Finding1,True,2
-ProstateX-0128_Finding1,True,2
-ProstateX-0128_Finding2,False,No Biopsy
-ProstateX-0128_Finding3,False,No Biopsy
-ProstateX-0129_Finding1,True,2
-ProstateX-0130_Finding2,False,No Biopsy
-ProstateX-0130_Finding3,False,No Biopsy
-ProstateX-0131_Finding1,True,5
-ProstateX-0132_Finding1,False,No Biopsy
-ProstateX-0133_Finding1,False,1
-ProstateX-0134_Finding1,False,No Biopsy
-ProstateX-0134_Finding2,False,No Biopsy
-ProstateX-0135_Finding1,False,No Biopsy
-ProstateX-0135_Finding2,False,No Biopsy
-ProstateX-0136_Finding1,False,1
-ProstateX-0136_Finding2,False,No Biopsy
-ProstateX-0137_Finding3,False,No Biopsy
-ProstateX-0139_Finding1,True,2
-ProstateX-0139_Finding2,False,No Biopsy
-ProstateX-0139_Finding3,False,1
-ProstateX-0140_Finding1,False,No Biopsy
-ProstateX-0140_Finding2,False,No Biopsy
-ProstateX-0141_Finding1,False,1
-ProstateX-0141_Finding2,False,No Biopsy
-ProstateX-0141_Finding3,False,No Biopsy
-ProstateX-0142_Finding1,False,No Biopsy
-ProstateX-0142_Finding2,False,No Biopsy
-ProstateX-0142_Finding3,False,1
-ProstateX-0143_Finding1,True,2
-ProstateX-0144_Finding1,False,No Biopsy
-ProstateX-0144_Finding3,False,No Biopsy
-ProstateX-0145_Finding1,False,1
-ProstateX-0146_Finding1,False,No Biopsy
-ProstateX-0147_Finding1,False,No Biopsy
-ProstateX-0147_Finding2,False,No Biopsy
-ProstateX-0148_Finding1,True,2
-ProstateX-0148_Finding2,False,No Biopsy
-ProstateX-0149_Finding1,False,No Biopsy
-ProstateX-0149_Finding2,False,No Biopsy
-ProstateX-0150_Finding2,False,1
-ProstateX-0150_Finding3,False,1
-ProstateX-0151_Finding1,False,No Biopsy
-ProstateX-0151_Finding2,False,No Biopsy
-ProstateX-0152_Finding1,False,1
-ProstateX-0153_Finding1,False,1
-ProstateX-0153_Finding2,False,No Biopsy
-ProstateX-0154_Finding1,False,No Biopsy
-ProstateX-0155_Finding1,False,No Biopsy
-ProstateX-0156_Finding1,False,No Biopsy
-ProstateX-0157_Finding1,False,No Biopsy
-ProstateX-0157_Finding3,False,No Biopsy
-ProstateX-0158_Finding1,False,No Biopsy
-ProstateX-0159_Finding1,False,No Biopsy
-ProstateX-0159_Finding2,False,No Biopsy
-ProstateX-0160_Finding1,False,No Biopsy
-ProstateX-0161_Finding1,False,No Biopsy
-ProstateX-0161_Finding2,False,No Biopsy
-ProstateX-0161_Finding3,False,No Biopsy
-ProstateX-0162_Finding1,False,1
-ProstateX-0163_Finding1,False,No Biopsy
-ProstateX-0163_Finding3,False,No Biopsy
-ProstateX-0164_Finding1,True,3
-ProstateX-0165_Finding1,False,1
-ProstateX-0166_Finding1,False,No Biopsy
-ProstateX-0167_Finding1,False,No Biopsy
-ProstateX-0168_Finding1,False,1
-ProstateX-0169_Finding1,True,3
-ProstateX-0170_Finding1,False,No Biopsy
-ProstateX-0170_Finding2,False,No Biopsy
-ProstateX-0171_Finding1,False,No Biopsy
-ProstateX-0171_Finding2,False,No Biopsy
-ProstateX-0171_Finding3,False,No Biopsy
-ProstateX-0172_Finding4,False,1
-ProstateX-0173_Finding1,False,1
-ProstateX-0173_Finding2,False,1
-ProstateX-0174_Finding1,False,1
-ProstateX-0175_Finding1,False,No Biopsy
-ProstateX-0175_Finding2,False,No Biopsy
-ProstateX-0176_Finding1,False,No Biopsy
-ProstateX-0177_Finding1,False,No Biopsy
-ProstateX-0177_Finding2,False,No Biopsy
-ProstateX-0177_Finding4,False,No Biopsy
-ProstateX-0178_Finding1,False,No Biopsy
-ProstateX-0179_Finding1,True,2
-ProstateX-0179_Finding2,True,2
-ProstateX-0180_Finding1,False,No Biopsy
-ProstateX-0181_Finding1,True,5
-ProstateX-0182_Finding1,False,1
-ProstateX-0183_Finding1,True,3
-ProstateX-0184_Finding1,False,No Biopsy
-ProstateX-0184_Finding2,True,3
-ProstateX-0185_Finding1,False,No Biopsy
-ProstateX-0186_Finding1,True,2
-ProstateX-0186_Finding2,False,No Biopsy
-ProstateX-0187_Finding1,True,3
-ProstateX-0187_Finding2,False,No Biopsy
-ProstateX-0187_Finding4,False,No Biopsy
-ProstateX-0188_Finding1,False,1
-ProstateX-0189_Finding1,False,No Biopsy
-ProstateX-0189_Finding2,False,No Biopsy
-ProstateX-0189_Finding3,False,No Biopsy
-ProstateX-0190_Finding1,True,2
-ProstateX-0190_Finding2,False,No Biopsy
-ProstateX-0191_Finding1,False,1
-ProstateX-0192_Finding1,True,4
-ProstateX-0192_Finding2,False,No Biopsy
-ProstateX-0193_Finding1,False,No Biopsy
-ProstateX-0193_Finding2,False,No Biopsy
-ProstateX-0193_Finding3,False,No Biopsy
-ProstateX-0193_Finding4,True,2
-ProstateX-0194_Finding1,True,2
-ProstateX-0195_Finding1,True,4
-ProstateX-0196_Finding1,True,5
-ProstateX-0196_Finding2,True,5
-ProstateX-0196_Finding3,True,3
-ProstateX-0197_Finding1,True,2
-ProstateX-0198_Finding1,True,5
-ProstateX-0199_Finding1,True,4
-ProstateX-0199_Finding2,True,4
-ProstateX-0200_Finding1,True,5
-ProstateX-0200_Finding2,False,No Biopsy
-ProstateX-0201_Finding1,True,2
-ProstateX-0202_Finding1,True,4
-ProstateX-0202_Finding2,False,No Biopsy
-ProstateX-0203_Finding1,True,2
-ProstateX-0203_Finding2,True,3
+"ID","Clinically Significant","Gleason Grade Group"
+"ProstateX-0000_Finding1","True",3
+"ProstateX-0001_Finding1","False",1
+"ProstateX-0002_Finding1","True",2
+"ProstateX-0002_Finding2","False",1
+"ProstateX-0003_Finding1","False","No biopsy information"
+"ProstateX-0003_Finding2","False","No biopsy information"
+"ProstateX-0004_Finding1","False",1
+"ProstateX-0005_Finding0","True",2
+"ProstateX-0005_Finding1","True",3
+"ProstateX-0006_Finding1","False","No biopsy information"
+"ProstateX-0007_Finding1","False","No biopsy information"
+"ProstateX-0008_Finding1","False","No biopsy information"
+"ProstateX-0009_Finding1","False","No biopsy information"
+"ProstateX-0010_Finding1","False","No biopsy information"
+"ProstateX-0011_Finding1","False","No biopsy information"
+"ProstateX-0012_Finding1","False","No biopsy information"
+"ProstateX-0012_Finding2","False","No biopsy information"
+"ProstateX-0013_Finding1","False","No biopsy information"
+"ProstateX-0014_Finding1","True",2
+"ProstateX-0015_Finding1","True",3
+"ProstateX-0016_Finding1","False",1
+"ProstateX-0017_Finding1","False","No biopsy information"
+"ProstateX-0018_Finding1","True",2
+"ProstateX-0019_Finding1","True",2
+"ProstateX-0020_Finding1","False","No biopsy information"
+"ProstateX-0021_Finding2","False","No biopsy information"
+"ProstateX-0021_Finding4","False","No biopsy information"
+"ProstateX-0022_Finding1","False","No biopsy information"
+"ProstateX-0023_Finding1","False","No biopsy information"
+"ProstateX-0023_Finding2","False","No biopsy information"
+"ProstateX-0024_Finding1","False","No biopsy information"
+"ProstateX-0025_Finding1","False","No biopsy information"
+"ProstateX-0026_Finding1","True",4
+"ProstateX-0027_Finding1","False","No biopsy information"
+"ProstateX-0028_Finding1","True",2
+"ProstateX-0028_Finding2","False","No biopsy information"
+"ProstateX-0029_Finding1","False","No biopsy information"
+"ProstateX-0030_Finding1","False","No biopsy information"
+"ProstateX-0031_Finding1","True",2
+"ProstateX-0031_Finding2","False",1
+"ProstateX-0032_Finding1","False","No biopsy information"
+"ProstateX-0033_Finding1","False","No biopsy information"
+"ProstateX-0033_Finding3","False","No biopsy information"
+"ProstateX-0034_Finding1","False","No biopsy information"
+"ProstateX-0035_Finding1","True",2
+"ProstateX-0035_Finding2","False","No biopsy information"
+"ProstateX-0036_Finding1","False","No biopsy information"
+"ProstateX-0037_Finding1","True",2
+"ProstateX-0037_Finding2","False","No biopsy information"
+"ProstateX-0038_Finding1","False","No biopsy information"
+"ProstateX-0038_Finding2","False","No biopsy information"
+"ProstateX-0038_Finding3","False","No biopsy information"
+"ProstateX-0039_Finding1","False","No biopsy information"
+"ProstateX-0040_Finding1","True",2
+"ProstateX-0040_Finding2","False","No biopsy information"
+"ProstateX-0040_Finding3","False","No biopsy information"
+"ProstateX-0041_Finding1","True",2
+"ProstateX-0042_Finding1","False","No biopsy information"
+"ProstateX-0043_Finding1","False","No biopsy information"
+"ProstateX-0044_Finding1","False","No biopsy information"
+"ProstateX-0045_Finding1","False","No biopsy information"
+"ProstateX-0046_Finding1","True",3
+"ProstateX-0046_Finding2","False","No biopsy information"
+"ProstateX-0047_Finding1","False","No biopsy information"
+"ProstateX-0048_Finding1","False","No biopsy information"
+"ProstateX-0049_Finding1","False","No biopsy information"
+"ProstateX-0050_Finding1","False","No biopsy information"
+"ProstateX-0051_Finding1","False","No biopsy information"
+"ProstateX-0053_Finding4","False",1
+"ProstateX-0054_Finding1","True",2
+"ProstateX-0054_Finding2","False","No biopsy information"
+"ProstateX-0055_Finding1","True",3
+"ProstateX-0057_Finding1","False","No biopsy information"
+"ProstateX-0057_Finding2","False","No biopsy information"
+"ProstateX-0058_Finding1","False","No biopsy information"
+"ProstateX-0059_Finding1","False","No biopsy information"
+"ProstateX-0060_Finding1","False","No biopsy information"
+"ProstateX-0061_Finding1","False","No biopsy information"
+"ProstateX-0062_Finding1","False","No biopsy information"
+"ProstateX-0063_Finding1","False","No biopsy information"
+"ProstateX-0064_Finding1","False","No biopsy information"
+"ProstateX-0065_Finding1","False","No biopsy information"
+"ProstateX-0065_Finding2","False","No biopsy information"
+"ProstateX-0066_Finding1","False","No biopsy information"
+"ProstateX-0067_Finding1","True",2
+"ProstateX-0067_Finding2","False","No biopsy information"
+"ProstateX-0067_Finding3","False","No biopsy information"
+"ProstateX-0068_Finding1","False","No biopsy information"
+"ProstateX-0068_Finding2","False","No biopsy information"
+"ProstateX-0068_Finding3","False","No biopsy information"
+"ProstateX-0069_Finding1","False",1
+"ProstateX-0070_Finding1","False","No biopsy information"
+"ProstateX-0070_Finding2","False","No biopsy information"
+"ProstateX-0071_Finding1","True",3
+"ProstateX-0072_Finding1","False","No biopsy information"
+"ProstateX-0073_Finding1","False","No biopsy information"
+"ProstateX-0074_Finding1","False","No biopsy information"
+"ProstateX-0075_Finding1","False","No biopsy information"
+"ProstateX-0076_Finding1","False",1
+"ProstateX-0077_Finding1","True",4
+"ProstateX-0078_Finding1","True",3
+"ProstateX-0079_Finding1","False","No biopsy information"
+"ProstateX-0081_Finding1","False","No biopsy information"
+"ProstateX-0082_Finding1","True",2
+"ProstateX-0083_Finding1","False","No biopsy information"
+"ProstateX-0083_Finding2","False","No biopsy information"
+"ProstateX-0084_Finding1","False","No biopsy information"
+"ProstateX-0084_Finding2","False",1
+"ProstateX-0085_Finding1","False","No biopsy information"
+"ProstateX-0085_Finding2","False","No biopsy information"
+"ProstateX-0085_Finding3","False","No biopsy information"
+"ProstateX-0085_Finding4","False","No biopsy information"
+"ProstateX-0086_Finding1","False","No biopsy information"
+"ProstateX-0086_Finding2","False","No biopsy information"
+"ProstateX-0087_Finding1","False","No biopsy information"
+"ProstateX-0087_Finding2","False","No biopsy information"
+"ProstateX-0088_Finding1","False","No biopsy information"
+"ProstateX-0088_Finding2","False","No biopsy information"
+"ProstateX-0089_Finding1","False","No biopsy information"
+"ProstateX-0090_Finding1","False","No biopsy information"
+"ProstateX-0091_Finding1","False","No biopsy information"
+"ProstateX-0092_Finding1","True",3
+"ProstateX-0093_Finding3","False","No biopsy information"
+"ProstateX-0094_Finding1","True",3
+"ProstateX-0095_Finding1","True",3
+"ProstateX-0095_Finding2","False","No biopsy information"
+"ProstateX-0096_Finding1","False","No biopsy information"
+"ProstateX-0097_Finding1","True",2
+"ProstateX-0098_Finding1","False","No biopsy information"
+"ProstateX-0099_Finding1","True",2
+"ProstateX-0099_Finding2","False","No biopsy information"
+"ProstateX-0100_Finding1","False","No biopsy information"
+"ProstateX-0100_Finding3","False","No biopsy information"
+"ProstateX-0101_Finding1","False",1
+"ProstateX-0101_Finding2","False","No biopsy information"
+"ProstateX-0102_Finding1","True",2
+"ProstateX-0103_Finding1","True",5
+"ProstateX-0103_Finding2","False","No biopsy information"
+"ProstateX-0104_Finding1","True",2
+"ProstateX-0104_Finding2","False","No biopsy information"
+"ProstateX-0105_Finding1","True",2
+"ProstateX-0106_Finding1","False","No biopsy information"
+"ProstateX-0106_Finding2","True",3
+"ProstateX-0107_Finding1","False","No biopsy information"
+"ProstateX-0108_Finding1","False","No biopsy information"
+"ProstateX-0108_Finding2","False","No biopsy information"
+"ProstateX-0109_Finding1","False","No biopsy information"
+"ProstateX-0109_Finding2","False","No biopsy information"
+"ProstateX-0110_Finding1","False",1
+"ProstateX-0110_Finding2","False","No biopsy information"
+"ProstateX-0111_Finding1","True",2
+"ProstateX-0112_Finding1","False","No biopsy information"
+"ProstateX-0113_Finding1","False","No biopsy information"
+"ProstateX-0114_Finding1","True",3
+"ProstateX-0114_Finding2","False","No biopsy information"
+"ProstateX-0115_Finding1","True",2
+"ProstateX-0116_Finding1","False",1
+"ProstateX-0117_Finding1","True",2
+"ProstateX-0117_Finding3","False","No biopsy information"
+"ProstateX-0118_Finding1","True",2
+"ProstateX-0118_Finding2","False","No biopsy information"
+"ProstateX-0119_Finding1","True",2
+"ProstateX-0120_Finding1","False","No biopsy information"
+"ProstateX-0120_Finding2","False","No biopsy information"
+"ProstateX-0121_Finding1","False",1
+"ProstateX-0121_Finding2","True",2
+"ProstateX-0122_Finding1","False",1
+"ProstateX-0122_Finding2","False",1
+"ProstateX-0123_Finding1","True",3
+"ProstateX-0124_Finding1","False",1
+"ProstateX-0125_Finding1","True",2
+"ProstateX-0126_Finding1","False","No biopsy information"
+"ProstateX-0126_Finding2","True",4
+"ProstateX-0127_Finding1","True",2
+"ProstateX-0128_Finding1","True",2
+"ProstateX-0128_Finding2","False","No biopsy information"
+"ProstateX-0128_Finding3","False","No biopsy information"
+"ProstateX-0129_Finding1","True",2
+"ProstateX-0130_Finding2","False","No biopsy information"
+"ProstateX-0130_Finding3","False","No biopsy information"
+"ProstateX-0131_Finding1","True",5
+"ProstateX-0132_Finding1","False","No biopsy information"
+"ProstateX-0133_Finding1","False",1
+"ProstateX-0134_Finding1","False","No biopsy information"
+"ProstateX-0134_Finding2","False","No biopsy information"
+"ProstateX-0135_Finding1","False","No biopsy information"
+"ProstateX-0135_Finding2","False","No biopsy information"
+"ProstateX-0136_Finding1","False",1
+"ProstateX-0136_Finding2","False","No biopsy information"
+"ProstateX-0137_Finding3","False","No biopsy information"
+"ProstateX-0139_Finding1","True",2
+"ProstateX-0139_Finding2","False","No biopsy information"
+"ProstateX-0139_Finding3","False",1
+"ProstateX-0140_Finding1","False","No biopsy information"
+"ProstateX-0140_Finding2","False","No biopsy information"
+"ProstateX-0141_Finding1","False",1
+"ProstateX-0141_Finding2","False","No biopsy information"
+"ProstateX-0141_Finding3","False","No biopsy information"
+"ProstateX-0142_Finding1","False","No biopsy information"
+"ProstateX-0142_Finding2","False","No biopsy information"
+"ProstateX-0142_Finding3","False",1
+"ProstateX-0143_Finding1","True",2
+"ProstateX-0144_Finding1","False","No biopsy information"
+"ProstateX-0144_Finding3","False","No biopsy information"
+"ProstateX-0145_Finding1","False",1
+"ProstateX-0146_Finding1","False","No biopsy information"
+"ProstateX-0147_Finding1","False","No biopsy information"
+"ProstateX-0147_Finding2","False","No biopsy information"
+"ProstateX-0148_Finding1","True",2
+"ProstateX-0148_Finding2","False","No biopsy information"
+"ProstateX-0149_Finding1","False","No biopsy information"
+"ProstateX-0149_Finding2","False","No biopsy information"
+"ProstateX-0150_Finding2","False",1
+"ProstateX-0150_Finding3","False",1
+"ProstateX-0151_Finding1","False","No biopsy information"
+"ProstateX-0151_Finding2","False","No biopsy information"
+"ProstateX-0152_Finding1","False",1
+"ProstateX-0153_Finding1","False",1
+"ProstateX-0153_Finding2","False","No biopsy information"
+"ProstateX-0154_Finding1","False","No biopsy information"
+"ProstateX-0155_Finding1","False","No biopsy information"
+"ProstateX-0156_Finding1","False","No biopsy information"
+"ProstateX-0157_Finding1","False","No biopsy information"
+"ProstateX-0157_Finding3","False","No biopsy information"
+"ProstateX-0158_Finding1","False","No biopsy information"
+"ProstateX-0159_Finding1","False","No biopsy information"
+"ProstateX-0159_Finding2","False","No biopsy information"
+"ProstateX-0160_Finding1","False","No biopsy information"
+"ProstateX-0161_Finding1","False","No biopsy information"
+"ProstateX-0161_Finding2","False","No biopsy information"
+"ProstateX-0161_Finding3","False","No biopsy information"
+"ProstateX-0162_Finding1","False",1
+"ProstateX-0163_Finding1","False","No biopsy information"
+"ProstateX-0163_Finding3","False","No biopsy information"
+"ProstateX-0164_Finding1","True",3
+"ProstateX-0165_Finding1","False",1
+"ProstateX-0166_Finding1","False","No biopsy information"
+"ProstateX-0167_Finding1","False","No biopsy information"
+"ProstateX-0168_Finding1","False",1
+"ProstateX-0169_Finding1","True",3
+"ProstateX-0170_Finding1","False","No biopsy information"
+"ProstateX-0170_Finding2","False","No biopsy information"
+"ProstateX-0171_Finding1","False","No biopsy information"
+"ProstateX-0171_Finding2","False","No biopsy information"
+"ProstateX-0171_Finding3","False","No biopsy information"
+"ProstateX-0172_Finding4","False",1
+"ProstateX-0173_Finding1","False",1
+"ProstateX-0173_Finding2","False",1
+"ProstateX-0174_Finding1","False",1
+"ProstateX-0175_Finding1","False","No biopsy information"
+"ProstateX-0175_Finding2","False","No biopsy information"
+"ProstateX-0176_Finding1","False","No biopsy information"
+"ProstateX-0177_Finding1","False","No biopsy information"
+"ProstateX-0177_Finding2","False","No biopsy information"
+"ProstateX-0177_Finding4","False","No biopsy information"
+"ProstateX-0178_Finding1","False","No biopsy information"
+"ProstateX-0179_Finding1","True",2
+"ProstateX-0179_Finding2","True",2
+"ProstateX-0180_Finding1","False","No biopsy information"
+"ProstateX-0181_Finding1","True",5
+"ProstateX-0182_Finding1","False",1
+"ProstateX-0183_Finding1","True",3
+"ProstateX-0184_Finding1","False","No biopsy information"
+"ProstateX-0184_Finding2","True",3
+"ProstateX-0185_Finding1","False","No biopsy information"
+"ProstateX-0186_Finding1","True",2
+"ProstateX-0186_Finding2","False","No biopsy information"
+"ProstateX-0187_Finding1","True",3
+"ProstateX-0187_Finding2","False","No biopsy information"
+"ProstateX-0187_Finding4","False","No biopsy information"
+"ProstateX-0188_Finding1","False",1
+"ProstateX-0189_Finding1","False","No biopsy information"
+"ProstateX-0189_Finding2","False","No biopsy information"
+"ProstateX-0189_Finding3","False","No biopsy information"
+"ProstateX-0190_Finding1","True",2
+"ProstateX-0190_Finding2","False","No biopsy information"
+"ProstateX-0191_Finding1","False",1
+"ProstateX-0192_Finding1","True",4
+"ProstateX-0192_Finding2","False","No biopsy information"
+"ProstateX-0193_Finding1","False","No biopsy information"
+"ProstateX-0193_Finding2","False","No biopsy information"
+"ProstateX-0193_Finding3","False","No biopsy information"
+"ProstateX-0193_Finding4","True",2
+"ProstateX-0194_Finding1","True",2
+"ProstateX-0195_Finding1","True",4
+"ProstateX-0196_Finding1","True",5
+"ProstateX-0196_Finding2","True",5
+"ProstateX-0196_Finding3","True",3
+"ProstateX-0197_Finding1","True",2
+"ProstateX-0198_Finding1","True",5
+"ProstateX-0199_Finding1","True",4
+"ProstateX-0199_Finding2","True",4
+"ProstateX-0200_Finding1","True",5
+"ProstateX-0200_Finding2","False","No biopsy information"
+"ProstateX-0201_Finding1","True",2
+"ProstateX-0202_Finding1","True",4
+"ProstateX-0202_Finding2","False","No biopsy information"
+"ProstateX-0203_Finding1","True",2
+"ProstateX-0203_Finding2","True",3
