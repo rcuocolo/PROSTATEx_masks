@@ -52,9 +52,8 @@ Full exam DICOM files are retrievable through the Cancer Imaging Archive at: [ht
 
 ## Citation
 
-- Cuocolo R, Comelli A, Stefano A, et al (2021) Deep Learning Whole‐Gland and Zonal Prostate Segmentation on a Public MRI Dataset. J Magn Reson Imaging. https://doi.org/10.1002/jmri.27585
-
-A second paper focused on the QA process and lesion segmentation is still under review. Details will be made available when possible.
+- R. Cuocolo, A. Stanzione, A. Castaldo, D.R. De Lucia, M. Imbriaco, Quality control and whole-gland, zonal and lesion annotations for the PROSTATEx challenge public dataset, Eur. J. Radiol. (2021) 109647. https://doi.org/10.1016/j.ejrad.2021.109647
+-  Cuocolo R, Comelli A, Stefano A, et al (2021) Deep Learning Whole‐Gland and Zonal Prostate Segmentation on a Public MRI Dataset. J Magn Reson Imaging. https://doi.org/10.1002/jmri.27585
 
 ## License
 
