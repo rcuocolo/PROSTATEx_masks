@@ -11,7 +11,7 @@ We encourage the use of this data for radiomics and machine learning investigati
 
 ### Lesion masks
 
-The files are in compressed NIFTI (.nii.gz) format and collected in separate folders for T2 and ADC images (n = 299 lesions) within the "Files/lesions/Masks/For_original_DICOMs" directory. Each filename contains the following information (separated by underscores):
+The files are in compressed NIFTI (.nii.gz) format and collected in separate folders for T2 and ADC images (n = 299 lesions) within the "Files/lesions/Masks/" directory. Each filename contains the following information (separated by underscores):
 
 - "PROSTATEx Patient ID" + "Finding ID" + "Sequence name" + "ROI"
 
@@ -33,13 +33,15 @@ Full exam DICOM files are retrievable through the Cancer Imaging Archive at: [ht
 The **masks are to be used exclusively after conversion of the DICOM files in NIFTI using [dcm2niix](https://github.com/rordenlab/dcm2niix)**.
 There is  a known [issue](https://github.com/rcuocolo/PROSTATEx_masks/issues/9) preventing the correct transposition of the annotations to the original DICOM files.
 
+The NIFTI files for ADC and axial T2 volumes employed in the segmentation process are also available in the repository within the "Files/lesions/Images/" directory.
+
 ### Original coordinate markers
 
 These 3x3 masks are centered on the original lesion coordinates provided in the PROSTATEx dataset and were employed for the quality control assessment and as the basis for successive whole-lesion segmentation. For the sake of transparency, they are also included in the dataset in the same format as the lesion masks in the "Original_coordinate_markers" folder. This file set includes lesion markers for all axial T2 and ADC images included for each patient.
 
 ### Prostate and zonal anatomy masks
 
-The files are in compressed NIFTI (.nii.gz) format, and all segmentations have been performed on axial T2 images (n = 204 exams). Each filename contains the following information (separated by underscores):
+The files are in compressed NIFTI (.nii.gz) format within the "Files/prostate/" directory. All segmentations have been performed on axial T2 images (n = 204 exams). Each filename contains the following information (separated by underscores):
 
 - "PROSTATEx Patient ID"
 
@@ -56,10 +58,20 @@ Full exam DICOM files are retrievable through the Cancer Imaging Archive at: [ht
 The **masks are to be used exclusively after conversion of the DICOM files in NIFTI using [dcm2niix](https://github.com/rordenlab/dcm2niix)**.
 There is  a known [issue](https://github.com/rcuocolo/PROSTATEx_masks/issues/9) preventing the correct transposition of the annotations to the original DICOM files.
 
+The NIFTI files for the axial T2 volumes employed in the segmentation process are also available in the repository within the "Files/prostate/Images/" directory.
+
 ## Citation
+
+### For the annotations
 
 - R. Cuocolo, A. Stanzione, A. Castaldo, D.R. De Lucia, M. Imbriaco, Quality control and whole-gland, zonal and lesion annotations for the PROSTATEx challenge public dataset, Eur. J. Radiol. (2021) 109647. https://doi.org/10.1016/j.ejrad.2021.109647
 -  Cuocolo R, Comelli A, Stefano A, et al (2021) Deep Learning Whole‐Gland and Zonal Prostate Segmentation on a Public MRI Dataset. J Magn Reson Imaging. https://doi.org/10.1002/jmri.27585
+
+### For the PROSTATEx dataset
+
+- Geert Litjens, Oscar Debats, Jelle Barentsz, Nico Karssemeijer, and Henkjan Huisman. "ProstateX Challenge data", The Cancer Imaging Archive (2017). DOI: 10.7937/K9TCIA.2017.MURS5CL
+- Litjens G, Debats O, Barentsz J, Karssemeijer N, Huisman H. "Computer-aided detection of prostate cancer in MRI", IEEE Transactions on Medical Imaging 2014;33:1083-1092. DOI: 10.1109/TMI.2014.2303821
+- Clark K, Vendt B, Smith K, Freymann J, Kirby J, Koppel P, Moore S, Phillips S, Maffitt D, Pringle M, Tarbox L, Prior F. The Cancer Imaging Archive (TCIA): Maintaining and Operating a Public Information Repository, Journal of Digital Imaging, Volume 26, Number 6, December, 2013, pp 1045-1057. DOI: 10.1007/s10278-013-9622-7
 
 ## License
 
